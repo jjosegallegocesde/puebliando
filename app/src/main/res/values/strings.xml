@@ -7,4 +7,9 @@
         disfrutar del descanso y el relax del pueblo
     </string>
 
+    <string name="opcion1">Español</string>
+    <string name="opcion2">Ingles</string>
+    <string name="opcion3">Portugues</string>
+    <string name="opcion4">Acerca de</string>
+
 </resources>
